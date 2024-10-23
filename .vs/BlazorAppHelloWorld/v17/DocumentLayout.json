@@ -1,9 +1,17 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Benny\\source\\repos\\BlazorAppHelloWorld\\",
+  "WorkspaceRootPath": "C:\\DATA\\GIT\\CSHARP\\BlazorAppHelloWorld\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D602E10B-87C6-48F2-8A78-5FFC3FE87B20}|BlazorAppHelloWorld\\BlazorAppHelloWorld.csproj|c:\\users\\benny\\source\\repos\\blazorapphelloworld\\blazorapphelloworld\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D602E10B-87C6-48F2-8A78-5FFC3FE87B20}|BlazorAppHelloWorld\\BlazorAppHelloWorld.csproj|c:\\data\\git\\csharp\\blazorapphelloworld\\blazorapphelloworld\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D602E10B-87C6-48F2-8A78-5FFC3FE87B20}|BlazorAppHelloWorld\\BlazorAppHelloWorld.csproj|solutionrelative:blazorapphelloworld\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D602E10B-87C6-48F2-8A78-5FFC3FE87B20}|BlazorAppHelloWorld\\BlazorAppHelloWorld.csproj|c:\\data\\git\\csharp\\blazorapphelloworld\\blazorapphelloworld\\components\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D602E10B-87C6-48F2-8A78-5FFC3FE87B20}|BlazorAppHelloWorld\\BlazorAppHelloWorld.csproj|solutionrelative:blazorapphelloworld\\components\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D602E10B-87C6-48F2-8A78-5FFC3FE87B20}|BlazorAppHelloWorld\\BlazorAppHelloWorld.csproj|c:\\data\\git\\csharp\\blazorapphelloworld\\blazorapphelloworld\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D602E10B-87C6-48F2-8A78-5FFC3FE87B20}|BlazorAppHelloWorld\\BlazorAppHelloWorld.csproj|solutionrelative:blazorapphelloworld\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -19,12 +27,38 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Home.razor",
+              "DocumentMoniker": "C:\\DATA\\GIT\\CSHARP\\BlazorAppHelloWorld\\BlazorAppHelloWorld\\Components\\Pages\\Home.razor",
+              "RelativeDocumentMoniker": "BlazorAppHelloWorld\\Components\\Pages\\Home.razor",
+              "ToolTip": "C:\\DATA\\GIT\\CSHARP\\BlazorAppHelloWorld\\BlazorAppHelloWorld\\Components\\Pages\\Home.razor",
+              "RelativeToolTip": "BlazorAppHelloWorld\\Components\\Pages\\Home.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-23T13:59:09.753Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Counter.razor",
+              "DocumentMoniker": "C:\\DATA\\GIT\\CSHARP\\BlazorAppHelloWorld\\BlazorAppHelloWorld\\Components\\Pages\\Counter.razor",
+              "RelativeDocumentMoniker": "BlazorAppHelloWorld\\Components\\Pages\\Counter.razor",
+              "ToolTip": "C:\\DATA\\GIT\\CSHARP\\BlazorAppHelloWorld\\BlazorAppHelloWorld\\Components\\Pages\\Counter.razor",
+              "RelativeToolTip": "BlazorAppHelloWorld\\Components\\Pages\\Counter.razor",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAswBIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-23T13:53:56.856Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Benny\\source\\repos\\BlazorAppHelloWorld\\BlazorAppHelloWorld\\Program.cs",
+              "DocumentMoniker": "C:\\DATA\\GIT\\CSHARP\\BlazorAppHelloWorld\\BlazorAppHelloWorld\\Program.cs",
               "RelativeDocumentMoniker": "BlazorAppHelloWorld\\Program.cs",
-              "ToolTip": "C:\\Users\\Benny\\source\\repos\\BlazorAppHelloWorld\\BlazorAppHelloWorld\\Program.cs",
+              "ToolTip": "C:\\DATA\\GIT\\CSHARP\\BlazorAppHelloWorld\\BlazorAppHelloWorld\\Program.cs",
               "RelativeToolTip": "BlazorAppHelloWorld\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-15T19:26:12.323Z",
               "EditorCaption": ""

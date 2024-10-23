@@ -1,23 +1,23 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\Benny\\source\\repos\\BlazorAppHelloWorld\\BlazorAppHelloWorld\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\BlazorAppHelloWorld.bundle.scp.css",
+      "Id": "C:\\DATA\\GIT\\CSHARP\\BlazorAppHelloWorld\\BlazorAppHelloWorld\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\BlazorAppHelloWorld.bundle.scp.css",
       "PackagePath": "staticwebassets\\BlazorAppHelloWorld.bundle.scp.css"
     },
     {
-      "Id": "C:\\Users\\Benny\\source\\repos\\BlazorAppHelloWorld\\BlazorAppHelloWorld\\wwwroot\\app.css",
+      "Id": "C:\\DATA\\GIT\\CSHARP\\BlazorAppHelloWorld\\BlazorAppHelloWorld\\wwwroot\\app.css",
       "PackagePath": "staticwebassets\\app.css"
     },
     {
-      "Id": "C:\\Users\\Benny\\source\\repos\\BlazorAppHelloWorld\\BlazorAppHelloWorld\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "Id": "C:\\DATA\\GIT\\CSHARP\\BlazorAppHelloWorld\\BlazorAppHelloWorld\\wwwroot\\bootstrap\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css"
     },
     {
-      "Id": "C:\\Users\\Benny\\source\\repos\\BlazorAppHelloWorld\\BlazorAppHelloWorld\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "Id": "C:\\DATA\\GIT\\CSHARP\\BlazorAppHelloWorld\\BlazorAppHelloWorld\\wwwroot\\bootstrap\\bootstrap.min.css.map",
       "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css.map"
     },
     {
-      "Id": "C:\\Users\\Benny\\source\\repos\\BlazorAppHelloWorld\\BlazorAppHelloWorld\\wwwroot\\favicon.png",
+      "Id": "C:\\DATA\\GIT\\CSHARP\\BlazorAppHelloWorld\\BlazorAppHelloWorld\\wwwroot\\favicon.png",
       "PackagePath": "staticwebassets\\favicon.png"
     },
     {

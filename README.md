@@ -1,6 +1,6 @@
 # BlazorAppHelloWorld
 
-Folowing the tutorial at <thhps://OODO>
+Folowing the tutorial at <https://dotnet.microsoft.com/en-us/learn/aspnet/blazor-tutorial/intro>
 
 ## Repo
 
@@ -159,3 +159,5 @@ To https://github.com/BennyClemmens/BlazorAppHelloWorld.git
  * [new branch]      main -> main
 branch 'main' set up to track 'origin/main'.
 ```
+
+Continuing with <https://learn.microsoft.com/en-us/training/modules/build-blazor-todo-list/?WT.mc_id=dotnet-35129-website>

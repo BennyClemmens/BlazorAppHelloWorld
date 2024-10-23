@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "3hyK4MpOh28XwUsmywUvk3oXTyibpJ2J5BOlhqGhX4w=",
+  "Hash": "A/D6bCfuKAwJstDfzmZMeW9scdahWk4aun4C+UqwJ98=",
   "Source": "BlazorAppHelloWorld",
   "BasePath": "_content/BlazorAppHelloWorld",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "BlazorAppHelloWorld\\wwwroot",
       "Source": "BlazorAppHelloWorld",
-      "ContentRoot": "C:\\Users\\Benny\\source\\repos\\BlazorAppHelloWorld\\BlazorAppHelloWorld\\wwwroot\\",
+      "ContentRoot": "C:\\DATA\\GIT\\CSHARP\\BlazorAppHelloWorld\\BlazorAppHelloWorld\\wwwroot\\",
       "BasePath": "_content/BlazorAppHelloWorld",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\Benny\\source\\repos\\BlazorAppHelloWorld\\BlazorAppHelloWorld\\obj\\Debug\\net8.0\\scopedcss\\bundle\\BlazorAppHelloWorld.styles.css",
+      "Identity": "C:\\DATA\\GIT\\CSHARP\\BlazorAppHelloWorld\\BlazorAppHelloWorld\\obj\\Debug\\net8.0\\scopedcss\\bundle\\BlazorAppHelloWorld.styles.css",
       "SourceId": "BlazorAppHelloWorld",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\Benny\\source\\repos\\BlazorAppHelloWorld\\BlazorAppHelloWorld\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
+      "ContentRoot": "C:\\DATA\\GIT\\CSHARP\\BlazorAppHelloWorld\\BlazorAppHelloWorld\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
       "BasePath": "_content/BlazorAppHelloWorld",
       "RelativePath": "BlazorAppHelloWorld.styles.css",
       "AssetKind": "All",
@@ -33,13 +33,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Benny\\source\\repos\\BlazorAppHelloWorld\\BlazorAppHelloWorld\\obj\\Debug\\net8.0\\scopedcss\\bundle\\BlazorAppHelloWorld.styles.css"
+      "OriginalItemSpec": "C:\\DATA\\GIT\\CSHARP\\BlazorAppHelloWorld\\BlazorAppHelloWorld\\obj\\Debug\\net8.0\\scopedcss\\bundle\\BlazorAppHelloWorld.styles.css"
     },
     {
-      "Identity": "C:\\Users\\Benny\\source\\repos\\BlazorAppHelloWorld\\BlazorAppHelloWorld\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\BlazorAppHelloWorld.bundle.scp.css",
+      "Identity": "C:\\DATA\\GIT\\CSHARP\\BlazorAppHelloWorld\\BlazorAppHelloWorld\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\BlazorAppHelloWorld.bundle.scp.css",
       "SourceId": "BlazorAppHelloWorld",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\Benny\\source\\repos\\BlazorAppHelloWorld\\BlazorAppHelloWorld\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "C:\\DATA\\GIT\\CSHARP\\BlazorAppHelloWorld\\BlazorAppHelloWorld\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/BlazorAppHelloWorld",
       "RelativePath": "BlazorAppHelloWorld.bundle.scp.css",
       "AssetKind": "All",
@@ -52,13 +52,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Benny\\source\\repos\\BlazorAppHelloWorld\\BlazorAppHelloWorld\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\BlazorAppHelloWorld.bundle.scp.css"
+      "OriginalItemSpec": "C:\\DATA\\GIT\\CSHARP\\BlazorAppHelloWorld\\BlazorAppHelloWorld\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\BlazorAppHelloWorld.bundle.scp.css"
     },
     {
-      "Identity": "C:\\Users\\Benny\\source\\repos\\BlazorAppHelloWorld\\BlazorAppHelloWorld\\wwwroot\\app.css",
+      "Identity": "C:\\DATA\\GIT\\CSHARP\\BlazorAppHelloWorld\\BlazorAppHelloWorld\\wwwroot\\app.css",
       "SourceId": "BlazorAppHelloWorld",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Benny\\source\\repos\\BlazorAppHelloWorld\\BlazorAppHelloWorld\\wwwroot\\",
+      "ContentRoot": "C:\\DATA\\GIT\\CSHARP\\BlazorAppHelloWorld\\BlazorAppHelloWorld\\wwwroot\\",
       "BasePath": "_content/BlazorAppHelloWorld",
       "RelativePath": "app.css",
       "AssetKind": "All",
@@ -74,10 +74,10 @@
       "OriginalItemSpec": "wwwroot\\app.css"
     },
     {
-      "Identity": "C:\\Users\\Benny\\source\\repos\\BlazorAppHelloWorld\\BlazorAppHelloWorld\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "Identity": "C:\\DATA\\GIT\\CSHARP\\BlazorAppHelloWorld\\BlazorAppHelloWorld\\wwwroot\\bootstrap\\bootstrap.min.css",
       "SourceId": "BlazorAppHelloWorld",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Benny\\source\\repos\\BlazorAppHelloWorld\\BlazorAppHelloWorld\\wwwroot\\",
+      "ContentRoot": "C:\\DATA\\GIT\\CSHARP\\BlazorAppHelloWorld\\BlazorAppHelloWorld\\wwwroot\\",
       "BasePath": "_content/BlazorAppHelloWorld",
       "RelativePath": "bootstrap/bootstrap.min.css",
       "AssetKind": "All",
@@ -93,10 +93,10 @@
       "OriginalItemSpec": "wwwroot\\bootstrap\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\Benny\\source\\repos\\BlazorAppHelloWorld\\BlazorAppHelloWorld\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "Identity": "C:\\DATA\\GIT\\CSHARP\\BlazorAppHelloWorld\\BlazorAppHelloWorld\\wwwroot\\bootstrap\\bootstrap.min.css.map",
       "SourceId": "BlazorAppHelloWorld",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Benny\\source\\repos\\BlazorAppHelloWorld\\BlazorAppHelloWorld\\wwwroot\\",
+      "ContentRoot": "C:\\DATA\\GIT\\CSHARP\\BlazorAppHelloWorld\\BlazorAppHelloWorld\\wwwroot\\",
       "BasePath": "_content/BlazorAppHelloWorld",
       "RelativePath": "bootstrap/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -112,10 +112,10 @@
       "OriginalItemSpec": "wwwroot\\bootstrap\\bootstrap.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Benny\\source\\repos\\BlazorAppHelloWorld\\BlazorAppHelloWorld\\wwwroot\\favicon.png",
+      "Identity": "C:\\DATA\\GIT\\CSHARP\\BlazorAppHelloWorld\\BlazorAppHelloWorld\\wwwroot\\favicon.png",
       "SourceId": "BlazorAppHelloWorld",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Benny\\source\\repos\\BlazorAppHelloWorld\\BlazorAppHelloWorld\\wwwroot\\",
+      "ContentRoot": "C:\\DATA\\GIT\\CSHARP\\BlazorAppHelloWorld\\BlazorAppHelloWorld\\wwwroot\\",
       "BasePath": "_content/BlazorAppHelloWorld",
       "RelativePath": "favicon.png",
       "AssetKind": "All",
