@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Benny\\source\\repos\\BlazorAppHelloWorld\\BlazorAppHelloWorld\\BlazorAppHelloWorld.csproj": {}
+    "C:\\DATA\\GIT\\CSHARP\\BlazorAppHelloWorld\\BlazorAppHelloWorld\\BlazorAppHelloWorld.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Benny\\source\\repos\\BlazorAppHelloWorld\\BlazorAppHelloWorld\\BlazorAppHelloWorld.csproj": {
+    "C:\\DATA\\GIT\\CSHARP\\BlazorAppHelloWorld\\BlazorAppHelloWorld\\BlazorAppHelloWorld.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Benny\\source\\repos\\BlazorAppHelloWorld\\BlazorAppHelloWorld\\BlazorAppHelloWorld.csproj",
+        "projectUniqueName": "C:\\DATA\\GIT\\CSHARP\\BlazorAppHelloWorld\\BlazorAppHelloWorld\\BlazorAppHelloWorld.csproj",
         "projectName": "BlazorAppHelloWorld",
-        "projectPath": "C:\\Users\\Benny\\source\\repos\\BlazorAppHelloWorld\\BlazorAppHelloWorld\\BlazorAppHelloWorld.csproj",
+        "projectPath": "C:\\DATA\\GIT\\CSHARP\\BlazorAppHelloWorld\\BlazorAppHelloWorld\\BlazorAppHelloWorld.csproj",
         "packagesPath": "C:\\Users\\Benny\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Benny\\source\\repos\\BlazorAppHelloWorld\\BlazorAppHelloWorld\\obj\\",
+        "outputPath": "C:\\DATA\\GIT\\CSHARP\\BlazorAppHelloWorld\\BlazorAppHelloWorld\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Benny\\AppData\\Roaming\\NuGet\\NuGet.Config",
